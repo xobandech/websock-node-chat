@@ -28,3 +28,7 @@ body {
 #chat-messages {
     padding: 1em;
 }
+
+#nickname-input {
+    font-size: large;
+}
